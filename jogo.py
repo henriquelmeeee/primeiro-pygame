@@ -15,7 +15,7 @@ y = altura/2
 
 
 tela = pygame.display.set_mode((largura, altura))
-nome_tela = pygame.display.set_caption('Bit Life') 
+nome_tela = pygame.display.set_caption('Jogo') 
 relogio = pygame.time.Clock()
 xMoeda = 60
 yMoeda = 60
